@@ -1,0 +1,2 @@
+# Logistic-Regression-Model-Food-Inspection-Result-Prediction
+This project predicts whether a restaurant will pass or fail a food safety inspection using logistic regression. It uses data like restaurant age, employee count, average customers, cleanliness score, and previous violations. The confusion matrix and classification report are used to test and understand the model’s accuracy and prediction quality.
