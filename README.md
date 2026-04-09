@@ -1,5 +1,10 @@
+# Project Details #
+
 This Python script performs logistic regression on a food inspection dataset.
-Steps followed:
+
+![Output 1](https://github.com/kavikumaran555/Logistic-Regression-Model-Food-Inspection-Result-Prediction/raw/main/logreg%20heatmap2.png)
+
+## Steps followed: ##
 
 Load dataset using pandas.
 
@@ -13,4 +18,6 @@ Display confusion matrix with labeled boxes for easy understanding.
 
 Show classification report with accuracy, precision, recall, and F1-score.
 
-Libraries used: pandas, numpy, sklearn, matplotlib.
+## Libraries used: ##
+
+pandas, numpy, sklearn, matplotlib.
